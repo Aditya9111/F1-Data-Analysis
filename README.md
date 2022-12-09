@@ -1,6 +1,6 @@
 # F1-Data-Analysis
 
-F1 Data analysis using ERGAGST API.
+F1 Data analysis using ERGAST API.
 
 URL: https://ergast.com/mrd/
 
